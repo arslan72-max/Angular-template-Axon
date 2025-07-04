@@ -1,6 +1,6 @@
 # Axon Frontend Application
 
-This is a complete **Angular frontend project** featuring:
+This is a uncomplete **Angular frontend project** featuring:
 - 🚀 User authentication form
 - 🌐 Language selection dropdown
 - 🎨 Custom UI styling with CSS
